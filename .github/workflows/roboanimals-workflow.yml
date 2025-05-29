@@ -97,6 +97,8 @@ on:
         required: false
       BASESCAN_TOKEN:
         required: false
+      BERASCAN_TOKEN:
+        required: false
       YRPC_API_KEY:
         required: false
       YPRICEAPI_PASS:
